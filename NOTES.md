@@ -2,6 +2,9 @@ command for Expo project setup
 https://docs.expo.dev
 `npx create-expo-app@latest`
 
+run app on Expo Go
+`npx expo start`
+
 Development build for android and ios(recommended)
 https://docs.expo.dev/get-started/set-up-your-environment/?mode=development-build&platform=ios&device=simulated&buildEnv=local
 `npx expo install expo-dev-client`
